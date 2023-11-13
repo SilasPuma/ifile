@@ -1,3 +1,4 @@
+![image](https://github.com/SilasPuma/ifile/assets/114674696/4d305a93-a283-4760-9f3c-ddf41182bf72)
 # iFile File Manager
 
 ## Installation
